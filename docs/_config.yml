@@ -1,1 +1,8 @@
-
+title: Custom
+description: Add stuff here
+theme: minima
+minima:
+  skin: solarized-dark
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
